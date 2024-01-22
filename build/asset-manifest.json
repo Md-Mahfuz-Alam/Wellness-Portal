@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/wellness_portal/static/css/main.75bbaef4.css",
+    "main.js": "/wellness_portal/static/js/main.805f2959.js",
+    "static/media/therapy.jpg": "/wellness_portal/static/media/therapy.c6ea679b6df5c6ad518d.jpg",
+    "static/media/fitness.jpg": "/wellness_portal/static/media/fitness.73d153855165cc0fe6e8.jpg",
+    "static/media/yoga.jpg": "/wellness_portal/static/media/yoga.20b3862662668b5e1717.jpg",
+    "static/media/pic2.jpg": "/wellness_portal/static/media/pic2.d9b2871e28c60a7ad17a.jpg",
+    "static/media/meditation.jpg": "/wellness_portal/static/media/meditation.147b63e833519e792c64.jpg",
+    "static/media/pic1.jpg": "/wellness_portal/static/media/pic1.e9cf6545774eb1e08819.jpg",
+    "static/media/mind.jpg": "/wellness_portal/static/media/mind.706481f6150a2f08b133.jpg",
+    "static/media/meditation3.jpg": "/wellness_portal/static/media/meditation3.72fed74150855d2fb2df.jpg",
+    "static/media/pic3.jpg": "/wellness_portal/static/media/pic3.0d72c242d3b56d38dfa5.jpg",
+    "static/media/pic4.jpg": "/wellness_portal/static/media/pic4.b0b5cf16d4a1578c1db1.jpg",
+    "static/media/fit4.jpg": "/wellness_portal/static/media/fit4.a646f905153d08daaed7.jpg",
+    "static/media/meditation2.jpg": "/wellness_portal/static/media/meditation2.62c1faf310e80666f2e6.jpg",
+    "static/media/therapylogo1.png": "/wellness_portal/static/media/therapylogo1.325a0f12a1892e277eb5.png",
+    "static/media/fit1.jpg": "/wellness_portal/static/media/fit1.0b4edecbdee9a1593287.jpg",
+    "static/media/mindfulnesslogo.png": "/wellness_portal/static/media/mindfulnesslogo.f4ac07d4eea22b082bf9.png",
+    "static/media/fit2.jpg": "/wellness_portal/static/media/fit2.c1f199b56477699fbd34.jpg",
+    "static/media/fitnesslogo1.png": "/wellness_portal/static/media/fitnesslogo1.24ebe6a832ae075a6d27.png",
+    "static/media/fit3.jpg": "/wellness_portal/static/media/fit3.27f7ded7a176c5254809.jpg",
+    "static/media/meditationlogo.png": "/wellness_portal/static/media/meditationlogo.c78c385e385b380b56cf.png",
+    "static/media/yoga1.jpg": "/wellness_portal/static/media/yoga1.7ac46483f4ef09edfe3d.jpg",
+    "static/media/meditation1.jpg": "/wellness_portal/static/media/meditation1.18abd9f9f877cab2a6d2.jpg",
+    "static/media/yogalogo1.png": "/wellness_portal/static/media/yogalogo1.e3e7a62cf5d44211cf3e.png",
+    "static/media/meditation4.jpg": "/wellness_portal/static/media/meditation4.b7f3d76e5945812282f8.jpg",
+    "static/media/yoga2.jpg": "/wellness_portal/static/media/yoga2.41cc9e78c2d99b72127c.jpg",
+    "static/media/yoga3.jpg": "/wellness_portal/static/media/yoga3.ecb91e244a7423300b6b.jpg",
+    "static/media/yoga4.jpg": "/wellness_portal/static/media/yoga4.746b45c34a6c428f36b1.jpg",
+    "index.html": "/wellness_portal/index.html",
+    "main.75bbaef4.css.map": "/wellness_portal/static/css/main.75bbaef4.css.map",
+    "main.805f2959.js.map": "/wellness_portal/static/js/main.805f2959.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75bbaef4.css",
+    "static/js/main.805f2959.js"
+  ]
+}
